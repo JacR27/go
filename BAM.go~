@@ -1,0 +1,9 @@
+// package for reading modifying .bam files 
+package main
+
+import (
+       "bufio"
+       "fmt"
+       "os"
+)
+
